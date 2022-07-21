@@ -20,9 +20,9 @@ li{
     list-style: none;
 }
 
----------------
- animation start 
-------------------------
+
+ /* animation start  */
+
 .animation{
     position: relative;
 }
@@ -86,9 +86,7 @@ li{
 
 
 
-/*   =====================================
-          header section style  
-     =====================================   */
+/*  header section style    */
 
 .hero-section{
     display: flex;
@@ -149,7 +147,7 @@ li{
     font-size: 20px;
 }
 .fa-trophy{
-    color: hsl(51, 100%, 50%);
+    color: #FFFFFF;
     font-size: 24px;
     
 }
